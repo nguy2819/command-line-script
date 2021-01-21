@@ -1,4 +1,5 @@
 Tiens-MacBook-Air:testJavascript borlandtien$ node commandLine.js 100 3
+```
 0 /usr/local/bin/node
 1 /Users/borlandtien/Projects/testJavascript/commandLine.js
 2 100
@@ -9,3 +10,4 @@ Tiens-MacBook-Air:testJavascript borlandtien$ node commandLine.js 100 3
 1 commandLine.js
 2 100
 3 3
+```
