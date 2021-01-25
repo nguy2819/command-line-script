@@ -1,0 +1,23 @@
+{
+  "name": "testJavascript",
+  "version": "1.0.0",
+  "description": "Tiens-MacBook-Air:testJavascript borlandtien$ node commandLine.js 100 3 0 /usr/local/bin/node 1 /Users/borlandtien/Projects/testJavascript/commandLine.js 2 100 3 3 300",
+  "main": "commandLine.js",
+  "scripts": {
+    "start": "node commandLine.js 100 2",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "print-working-directory": "pwd",
+    "build": "echo \"Do build stuff.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguy2819/command-line-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguy2819/command-line-script/issues"
+  },
+  "homepage": "https://github.com/nguy2819/command-line-script#readme"
+}
